@@ -14,5 +14,8 @@ All jars you can find on CurseForge, Modrinth, and Planet Minecraft are under Al
 ## Addons:
 Addons are 100% okay and even encouraged to be made for any of my mods. I'll even help you!
 
+## Updating or Branching Off my Mod:
+Without explicit permission from me, you may not create updates for my mods, or branches. You must contact me if you wish to do this.
+
 ## Additional Questions:
 Contact me on Discord: https://discord.com/invite/QFqbJFT8YK
